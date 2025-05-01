@@ -21,7 +21,7 @@ Artificial Intelligence and Data Science Student
 <p align="left">
 <a href="https://www.codechef.com/users/md_asharaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="md_asharaf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mdasharafs2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdasharafs2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdasharafs2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdasharafs2005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdasharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdasharafs2005" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@md_asharaf" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="md_asharaf" height="30" width="40" /></a>
 </p>
@@ -30,6 +30,6 @@ Artificial Intelligence and Data Science Student
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasharaf07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mdasharafs2005?theme=dark&font=Cantora%20One&ext=heatmap)](https://leetcode.com/mdasharafs2005)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mdasharaf?theme=dark&font=Cantora%20One&ext=heatmap)](https://leetcode.com/mdasharaf)
 
 [![Asharaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdasharaf07&bg_color=09100b&color=fcfcfc&line=3ae137&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
