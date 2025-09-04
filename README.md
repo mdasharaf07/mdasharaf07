@@ -7,7 +7,7 @@ Artificial Intelligence and Data Science Student
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mdasharafs2005@gmail.com/md_asharaf) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-asharaf-s-501bb1291/)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Monarch Techie
 - ⚡ Fun fact: I Understand Japanese.
 
 ### I code in
