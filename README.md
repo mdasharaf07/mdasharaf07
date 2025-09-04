@@ -2,7 +2,7 @@
 
 Artificial Intelligence and Data Science Student
 <img align="right" width="370" height="250" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">                                             
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me :
