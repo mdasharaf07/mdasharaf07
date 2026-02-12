@@ -39,7 +39,7 @@ const developer = {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Python", "Fast APIs"],
     database: ["MongoDB", "PostgreSQL", "Redis"],
-    cloud: ["AWS", "Vercel", "Railway", "Firebase"],
+    cloud: ["AWS", "Vercel", "Netlify", "Firebase"],
     tools: ["Docker", "Git", "Postman", "VS Code"]
   },
   
