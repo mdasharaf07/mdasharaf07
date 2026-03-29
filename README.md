@@ -23,8 +23,8 @@
     <a href='https://www.leetcode.com/mdasharaf' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="n_nayak" />
     </a>
-    <a href='https://t.me/+917008944644' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="+91-7008944644" />
+    <a href='https://t.me/+918428020550' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="+91-8428020550" />
     </a>
     <br/>
     <br/>
