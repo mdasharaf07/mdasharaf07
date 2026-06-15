@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hii!🖐️%20I'm%20Mohamed%20Asharaf&fontSize=60&fontColor=ffffff&fontAlignY=35&descAlignY=55&descSize=20" width="100%" alt="Header"/>
+  <img src="https://github.com/mdasharaf07/mdasharaf07/blob/master/github-header-banner.png?raw=true"/>
 </div>
 
 <div align='center'>
