@@ -7,6 +7,13 @@
 </div>
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdasharaf07&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub User's stars](https://img.shields.io/github/stars/mdasharaf07?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+
+</div>
+
+<div align="center">
     <a href='https://www.linkedin.com/in/Asharaf-s/' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-mdasharaf-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="md-asharaf" />
     </a>
@@ -214,7 +221,10 @@ const developer = {
 </p>
 </div>
 
-📊 My GitHub Stats:
+<hr>
+
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
     <a href='https://mdasharaf.xyz/' target="_blank" rel="noopener noreferrer">
@@ -224,10 +234,12 @@ const developer = {
         />
     </a>
 </p>
+</div>
 
 <hr>
 
-💾 My Mostly Used Languages:
+<div align="center">
+  <h2>💾 My Mostly Used Languages</h2>
 
 <p align="center">
     <a href='https://mdasharaf.xyz/' target="_blank" rel="noopener noreferrer">
@@ -237,11 +249,12 @@ const developer = {
         />
     </a>
 </p>
+</div>
 
 <hr>
 
-📈 My GitHub Activity Graph:
-
+<div align="center">
+  <h2>📈 My GitHub Activity Graph</h2>
 <p align="center">
     <a href='https://mdasharaf.xyz/' target="_blank" rel="noopener noreferrer">
         <img 
@@ -250,13 +263,12 @@ const developer = {
         />
     </a>
 </p>
+</div>
 
 <hr>
 
-
-<hr>
-
-## 🎯 Current Focus & Learning
+<div align="center">
+  <h2>🎯 Current Focus & Learning</h2>
 
 ```yaml
 Currently Building:
@@ -271,6 +283,8 @@ Learning & Growth:
   - Machine Learning integration patterns
   - System design for high-scale applications
 ```
+
+</div>
 
 <hr>
 
